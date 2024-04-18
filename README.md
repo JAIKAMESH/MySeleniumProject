@@ -2,10 +2,12 @@
    This is an automated testing project using the Selenium testing tool to 
    validate the Vehicle Insurance application (Automobile, Truck, Motorcycle and Camper).
 
-**Project Description**
-  The Vehicle Insurance Application is a web-based tool that allows users to 
-  calculate insurance premiums for different types of vehicles. It provides an 
-  intuitive interface for entering vehicle details, driver information, and coverage preferences.
+
+# Vehicle Insurance
+
+The Vehicle Insurance Application is a web-based tool that allows users to calculate insurance premiums for different types of vehicles. It provides an intuitive interface for entering vehicle details, driver information, and coverage preferences.
+
+
 
 **Installation Instructions**
   1.Prerequisites:
