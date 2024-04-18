@@ -3,7 +3,7 @@
    validate the Vehicle Insurance application (Automobile, Truck, Motorcycle and Camper).
 
 
-# Vehicle Insurance
+# Project Description
 
 The Vehicle Insurance Application is a web-based tool that allows users to calculate insurance premiums for different types of vehicles. It provides an intuitive interface for entering vehicle details, driver information, and coverage preferences.
 
